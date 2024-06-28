@@ -58,7 +58,7 @@ const data = {
       summary:
         "A fullstack MERN web app to browse, search for random images, with features like infinite scroll, lazy loading images,save images, remove images, download images.",
       repo_url: "https://github.com/AlokTiwari5/Infypics",
-      live_url: "https://bored-games-07.netlify.app/",
+      live_url: "https://infypics.netlify.app/",
       tags: ["React.js", "styled-components", "auth-0", "MongoDB", "Unsplash API", "Express.js"],
     },
     {
@@ -82,8 +82,8 @@ const data = {
       name: "Educouch - A learning management system",
       summary:
         "EduCouch is a management system intended for educational institution for managing their educational content. Serverless Application using AWS Amplify, React.js, GraphQL and Datastore.",
-      repo_url: "https://github.com/palakgupta2712/lms-app-amplify",
-      live_url: "https://edu-couch.netlify.app/",
+      repo_url: "",
+      live_url: "",
       tags: ["React.js", "Material-UI", "AWS Amplify"],
     },
   ],
